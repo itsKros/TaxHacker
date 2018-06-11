@@ -1,0 +1,63 @@
+body {
+  padding: 5rem 0 1rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+#headSec{background-color: #1376BC;padding: 80px 080px;}
+#headSec .heading h1{color:#fff;font-weight: 700;}
+#headSec .heading h1 span{font-weight: 400;}
+#headSec .heading p{color:#fff;}
+
+#detailSec {background: #F2F3F4;padding: 25px 0 15px;font-size: 20px;}
+#detailSec .table{}
+#detailSec .table td{border-top:0px;padding: .15rem 0;}
+#detailSec .table tr td:first-child{color:#888;}
+#detailSec .table tr td:last-child{color: #333;}
+#detailSec .table tr td:last-child span{font-weight: 600;}
+
+#taxEstimatorSec{padding: 20px 0 15px;font-size: 20px;}
+#taxEstimatorSec .table{}
+#taxEstimatorSec .table td{border: 0px;}
+#taxEstimatorSec .table th{border-top:0px; border-bottom:1px solid #1376BC;padding: .15rem 10px; color: #1376BC;vertical-align: middle;}
+#taxEstimatorSec .table th:first-child {font-size: 24px;width: 51%;}
+#taxEstimatorSec .table th:nth-child(2), #taxEstimatorSec .table th:nth-child(3){font-size: 16px;line-height: 1.2;padding: 10px 0;}
+#taxEstimatorSec .table th span{color:#999;}
+#taxEstimatorSec .table tr td{padding: .29rem 10px;}
+#taxEstimatorSec .table tr:last-child{background-color: #F4ED2F; font-weight: 600;}
+
+#retWeSec{padding: 20px 0 15px;font-size: 20px;}
+#retWeSec .table{}
+#retWeSec .table td{border: 0px;}
+#retWeSec .table th{border-top:0px; border-bottom:1px solid #1376BC;padding: .15rem 10px; color: #1376BC;vertical-align: middle;}
+#retWeSec .table th:first-child {font-size: 24px;}
+#retWeSec .table th:nth-child(2), #taxEstimatorSec .table th:nth-child(3){font-size: 16px;line-height: 1.2;padding: 10px 0;}
+#retWeSec .table th span{color:#999;}
+#retWeSec .table tr td{padding: .29rem 10px;}
+#retWeSec .table tr td.right {text-align:right;}
+#retWeSec .table tr:nth-child(2){font-size: 15px;font-weight: 600;color: #888;text-align: center;}
+#retWeSec .table tr:last-child{background-color: #F4ED2F; font-weight: 600;}
+
+
+#adSec {padding: 10px 0;text-align: center;}
+#adSec .container .row{border: 2px solid #1376bc;padding: 0 0px;margin: 0 0px;}
+#adSec .container .row .col-md-12{ padding:0;}
+#adSec h3{background: #1376bc;color: #fff;padding: 5px 0 10px;}
+#adSec p{ color: #888;     padding: 0 35px;}
+#adSec p a{ color: #1376bc; font-weight: 600;}
+#adSec p:last-child{font-size: 26px;}
+#adSec p:last-child a{color: #444;}
+
+
+#noticeSec p {
+    font-size: 14px;
+    font-style: italic;
+    color: #888;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+
