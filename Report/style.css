@@ -1,10 +1,4 @@
-body {
-  padding: 5rem 0 1rem;
-}
-.starter-template {
-  padding: 3rem 1.5rem;
-  text-align: center;
-}
+body {padding: 0rem 0 1rem;}
 
 #headSec{background-color: #1376BC;padding: 80px 080px;}
 #headSec .heading h1{color:#fff;font-weight: 700;}
@@ -51,13 +45,7 @@ body {
 #adSec p:last-child a{color: #444;}
 
 
-#noticeSec p {
-    font-size: 14px;
-    font-style: italic;
-    color: #888;
-    font-weight: 600;
-    text-align: center;
-}
+#noticeSec p {font-size: 14px;font-style: italic;color: #888;font-weight: 600;text-align: center;}
 
 
 
